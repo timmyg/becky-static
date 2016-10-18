@@ -8,7 +8,7 @@ permalink: /blog/brighten-door
 categories:
   - Uncategorized
 excerpt_separator: <!--more-->
-hero_img: /wp-content/uploads/2015/05/red-door-hb-188x125.jpg
+hero_img: {{ site.github.url }}/wp-content/uploads/2015/05/red-door-hb-188x125.jpg
 
 ---
 Eight ideas to brighten the door into your life:

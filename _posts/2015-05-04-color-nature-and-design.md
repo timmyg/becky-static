@@ -7,7 +7,7 @@ layout: page
 permalink: /blog/color-natural
 categories:
   - Uncategorized
-hero_img: /wp-content/uploads/2015/05/flowers-2-188x125.png
+hero_img: {{ site.github.url }}/wp-content/uploads/2015/05/flowers-2-188x125.png
 ---
 This weekend I went to a local farmer’s market. It is a little early to have all the vegetables out (I saw very few tomatoes and they were very pricey) but the vegetables and flowers I did see were gorgeous and colorful. The flowers, ranunculus mixed bouquets, were deep, rich and vibrant in tone.
 

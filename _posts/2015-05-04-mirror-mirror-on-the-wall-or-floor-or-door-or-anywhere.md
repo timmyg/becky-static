@@ -7,7 +7,7 @@ layout: page
 permalink: /blog/mirror-mirror
 categories:
   - Uncategorized
-hero_img: /wp-content/uploads/2015/05/venetian-mirror-188x125.jpg
+hero_img: {{ site.github.url }}/wp-content/uploads/2015/05/venetian-mirror-188x125.jpg
 ---
 Mirrors are wonderful. They can be used to enlarge a space, add a decorative accent, or be used to customize a bath or bedroom. They are available in an unbelievable array of sizes and finishes as well as styles and prices.
 

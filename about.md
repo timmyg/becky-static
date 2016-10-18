@@ -6,7 +6,7 @@ author: Becky Barras
 layout: page
 guid: ?page_id=2
 ---
-<img class="alignleft size-full wp-image-338" title="director" src="/wp-content/uploads/2015/05/becky-pic.jpg" alt="" width="300" />
+<img class="alignleft size-full wp-image-338" title="director" src="{{ site.github.url }}/wp-content/uploads/2015/05/becky-pic.jpg" alt="" width="300" />
 
 Becky Barras Interior Design is a full service design firm established in 1994.
 
